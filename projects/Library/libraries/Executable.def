@@ -1,0 +1,5 @@
+LIBRARY "Executable.exe"
+EXPORTS
+    ??0Tests@@QEAA@XZ
+    ??1Tests@@QEAA@XZ
+    ?DoAddition@Tests@@QEAAHHH@Z

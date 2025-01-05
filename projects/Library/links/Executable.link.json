@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Saturn-Labs/DynamicLinkExample/refs/heads/dev/schema/link.schema.json",
+  "target": "Executable.exe",
+  "default_version": "*",
+  "symbols": [
+    {
+      "symbol": "??0Tests@@QEAA@XZ",
+      "architecture": "x64",
+      "pointer": "48 89 4C 24 ? 48 83 EC ? 48 8D 15 ? ? ? ? 48 8B 0D ? ? ? ? E8 ? ? ? ? 48 89 44 24 ? 48 8D 15 ? ? ? ? 48 8B 4C 24 ? FF 15 ? ? ? ? 90 48 8B 44 24"
+    },
+    {
+      "symbol": "??1Tests@@QEAA@XZ",
+      "architecture": "x64",
+      "pointer": "48 89 4C 24 ? 48 83 EC ? 48 8D 15 ? ? ? ? 48 8B 0D ? ? ? ? E8 ? ? ? ? 48 89 44 24 ? 48 8D 15 ? ? ? ? 48 8B 4C 24 ? FF 15 ? ? ? ? 90 48 83 C4"
+    },
+    {
+      "symbol": "?DoAddition@Tests@@QEAAHHH@Z",
+      "architecture": "x64",
+      "pointer": "44 89 44 24"
+    }
+  ]
+}

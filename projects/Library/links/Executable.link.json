@@ -1,0 +1,106 @@
+{
+    "target": "Executable.exe",
+    "default_version": "*",
+    "symbols": [
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction1@@YAXXZ",
+            "pointer": "0x12345678"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature2@@YAXXZ",
+            "pointer": "48 89 5C 24 08 57 48 83 EC 20 ? ? ? ? ? ? ? ?"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction3@@YAXXZ",
+            "pointer": "0x34567890"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature4@@YAXXZ",
+            "pointer": "48 89 4C 24 08 55 41 56 48 81 EC 38 01"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction5@@YAXXZ",
+            "pointer": "0x56789012"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature6@@YAXXZ",
+            "pointer": "48 83 EC 28 48 8B 05 ? ? ? ?"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction7@@YAXXZ",
+            "pointer": "0x78901234"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature8@@YAXXZ",
+            "pointer": "48 8B 05 ? ? ? ? 55 48 8B EC"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction9@@YAXXZ",
+            "pointer": "0x90123456"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature10@@YAXXZ",
+            "pointer": "48 89 5C 24 08 57 48 83 EC 20 48 8B F9"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction11@@YAXXZ",
+            "pointer": "0xB1234567"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature12@@YAXXZ",
+            "pointer": "48 8B 05 ? ? ? ? 55 48 8B EC 48 83 EC 10"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction13@@YAXXZ",
+            "pointer": "0xD3456789"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature14@@YAXXZ",
+            "pointer": "48 89 5C 24 08 57 48 83 EC 20 48 8B F9 48 8B 0D ? ? ? ?"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction15@@YAXXZ",
+            "pointer": "0xF5678901"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature16@@YAXXZ",
+            "pointer": "48 8B 05 ? ? ? ? 48 83 3C 24 10"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction17@@YAXXZ",
+            "pointer": "0x12345679"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature18@@YAXXZ",
+            "pointer": "48 89 5C 24 08 57 48 83 EC 20 48 8B F9 48 8B 05 ? ? ? ?"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?MyFunction19@@YAXXZ",
+            "pointer": "0x3456789B"
+        },
+        {
+            "architecture": "x64",
+            "symbol": "?FuncWithSignature20@@YAXXZ",
+            "pointer": "48 8B 05 ? ? ? ? 55 48 8B EC 48 81 EC 38 01 00 00"
+        }
+    ]
+}

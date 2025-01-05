@@ -1,0 +1,22 @@
+LIBRARY "Executable.exe"
+EXPORTS
+    ?MyFunction1@@YAXXZ
+    ?FuncWithSignature2@@YAXXZ
+    ?MyFunction3@@YAXXZ
+    ?FuncWithSignature4@@YAXXZ
+    ?MyFunction5@@YAXXZ
+    ?FuncWithSignature6@@YAXXZ
+    ?MyFunction7@@YAXXZ
+    ?FuncWithSignature8@@YAXXZ
+    ?MyFunction9@@YAXXZ
+    ?FuncWithSignature10@@YAXXZ
+    ?MyFunction11@@YAXXZ
+    ?FuncWithSignature12@@YAXXZ
+    ?MyFunction13@@YAXXZ
+    ?FuncWithSignature14@@YAXXZ
+    ?MyFunction15@@YAXXZ
+    ?FuncWithSignature16@@YAXXZ
+    ?MyFunction17@@YAXXZ
+    ?FuncWithSignature18@@YAXXZ
+    ?MyFunction19@@YAXXZ
+    ?FuncWithSignature20@@YAXXZ

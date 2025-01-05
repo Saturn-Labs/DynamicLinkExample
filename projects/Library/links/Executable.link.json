@@ -1,4 +1,5 @@
 {
+    "$schema": "https://raw.githubusercontent.com/Saturn-Labs/DynamicLinkExample/refs/heads/dev/schema/link.schema.json",
     "target": "Executable.exe",
     "default_version": "*",
     "symbols": [

@@ -25,5 +25,7 @@ int main(int argc, char* argv[]) {
 	}
 
 	LoadLibrary("./Library.dll");
+	std::cout << std::hex << GetLastError() << std::endl;
+	std::cin.get();
 	return 0;
 }
